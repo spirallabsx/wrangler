@@ -1,10 +1,10 @@
 
 html {
-  background-color: rgb(36, 36, 36);  
+  background-color: rgb(164, 144, 113);  
 }
 
 p {
-  color:rgb(238, 238, 238);
+  color:rgb(146, 121, 81);
   font-size: 28px;
   font-family: 'Roboto Mono', monospace;
   margin-top: 50px;
@@ -19,7 +19,7 @@ i {
   font-size:large;
 }
 a {
-  color:rgb(238, 238, 238);
+  color:rgb(146, 121, 81);
   font-family: 'Roboto Mono', monospace;
 }
 
